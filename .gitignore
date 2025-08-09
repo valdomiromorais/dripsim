@@ -1,0 +1,75 @@
+# Unity (dripsim_game)
+dripsim_game/[Ll]ibrary/
+dripsim_game/[Tt]emp/
+dripsim_game/[Oo]bj/
+dripsim_game/[Bb]uild/
+dripsim_game/[Bb]uilds/
+dripsim_game/Assets/Plugins/Editor/JetBrains*
+dripsim_game/Assets/Plugins/Editor/Rider*
+dripsim_game/[Uu]serSettings/
+dripsim_game/[Ll]ogs/
+
+# Unity Generated
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity Build Output
+*.apk
+*.aab
+*.unitypackage
+
+# Blender (dripsim_assets)
+dripsim_assets/*.blend1
+dripsim_assets/*.blend2
+dripsim_assets/*.blend~
+dripsim_assets/*.autosave
+
+# 2D Art Tools (dripsim_assets)
+dripsim_assets/*.psb
+dripsim_assets/*.psd.autosave
+dripsim_assets/*.backup
+dripsim_assets/*.bak
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Visual Studio
+/.vs/
+/.vscode/
+
+# Rider
+/.idea/
+
+# Dependencies
+dripsim_game/[Aa]ssets/[Pp]ackages/
+node_modules/
+*.meta.cache
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Others
+*.swp
+*.swo
+
+# Temporary files in dripsim_assets and dripsim_docs
+dripsim_assets/*.tmp
+dripsim_docs/*.tmp
