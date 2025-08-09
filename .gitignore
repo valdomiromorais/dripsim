@@ -73,3 +73,4 @@ yarn-error.log*
 # Temporary files in dripsim_assets and dripsim_docs
 dripsim_assets/*.tmp
 dripsim_docs/*.tmp
+folder_content.txt
