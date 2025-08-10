@@ -52,10 +52,8 @@ Desktop.ini
 /.vs/
 /.vscode/
 
-# Rider (optimized)
-**/.idea/*
-!**/.idea/codeStyles/
-!**/.idea/inspectionProfiles/
+# Rider
+/.idea/
 
 # Dependencies
 dripsim_game/[Aa]ssets/[Pp]ackages/
