@@ -76,3 +76,4 @@ yarn-error.log*
 dripsim_assets/*.tmp
 dripsim_docs/*.tmp
 folder_content.txt
+directory_tree.txt
