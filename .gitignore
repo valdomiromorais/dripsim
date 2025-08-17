@@ -52,6 +52,9 @@ Desktop.ini
 /.vs/
 /.vscode/
 
+# Ignorar arquivos de configuração do Obsidian
+dripsim_docs/dripsim_vault/.obsidian/
+
 # Rider (optimized)
 **/.idea/*
 !**/.idea/codeStyles/

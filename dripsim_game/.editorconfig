@@ -1,0 +1,46 @@
+# EditorConfig para Unity + C#
+# Mantém chaves na mesma linha, indentação e espaçamentos consistentes
+root = true
+
+[*.cs]
+charset = utf-8
+indent_style = space
+indent_size = 4
+tab_width = 4
+end_of_line = crlf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+##########################
+# Layout das Chaves
+##########################
+# Colocar chaves na mesma linha para todos os casos
+csharp_new_line_before_open_brace = none
+csharp_new_line_before_open_brace_types = none
+csharp_new_line_before_open_brace_methods = none
+csharp_new_line_before_open_brace_accessors = none
+csharp_new_line_before_open_brace_anonymous_methods = none
+csharp_new_line_before_open_brace_control_blocks = none
+csharp_new_line_before_open_brace_lambdas = none
+csharp_new_line_before_open_brace_anonymous_types = none
+
+##########################
+# Espaçamentos
+##########################
+csharp_space_after_cast = true
+csharp_space_before_colon_in_inheritance_clause = true
+csharp_space_after_colon_in_inheritance_clause = true
+csharp_space_between_method_call_empty_parameter_list_parentheses = false
+csharp_space_between_method_declaration_empty_parameter_list_parentheses = false
+csharp_space_between_parentheses = false
+
+##########################
+# Quebras de linha
+##########################
+csharp_new_line_between_query_expression_clauses = true
+
+##########################
+# Usings
+##########################
+dotnet_sort_system_directives_first = true
+dotnet_separate_import_directive_groups = true
